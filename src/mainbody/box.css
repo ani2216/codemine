@@ -1,0 +1,240 @@
+.box_container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 20px;
+}
+
+/* Main semester section container */
+.semester-container {
+  border: 2px solid rgb(3, 195, 253);
+  border-radius: 12px;
+  padding: 25px 20px;
+  width: 100%;
+  max-width: 800px;
+  margin-top: 50px;
+  background-color: #f9fcff;
+  box-shadow: 0 4px 8px rgba(3, 195, 253, 0.1);
+}
+
+body.dark .semester-container {
+  background-color: #1e293b; /* slate-800 */
+  border-color: #fff;
+  box-shadow: 0 4px 10px rgba(56, 189, 248, 0.2);
+}
+
+/* Title in the legend */
+.semester-container .title {
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 1.6em;
+  font-weight: 700;
+  color: rgb(3, 195, 253);
+  text-transform: uppercase;
+  padding: 0 15px;
+  margin-left: 25px;
+}
+
+body.dark .semester-container .title{
+	color: #fff;
+}
+
+/* Grid of years and their subjects */
+.subjects-grid {
+  display: flex;
+  flex-direction: column;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+/* Year section header */
+.subjects-grid p {
+  margin-bottom: 0;
+  width: 96%;
+  padding: 12px 16px;
+  color: rgb(3, 195, 253);
+  background-color: #ffffff;
+  border: 1.5px solid rgb(3, 195, 253);
+  border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+  font-weight: bold;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+	text-transform: capitalize;
+}
+
+.subjects-grid p:hover {
+  background-color: rgba(3, 195, 253, 0.05);
+}
+
+body.dark .subjects-grid p {
+  background-color: #0f172a;
+  color: #fff;
+  border-color: #38bdf8;
+}
+
+body.dark .subjects-grid p:hover {
+  background-color: rgba(56, 189, 248, 0.1);
+}
+
+/* Subject box container */
+.subject-box {
+  width: 100%;
+  background-color: #ffffff;
+  border-left: 1.5px solid rgb(3, 195, 253);
+  border-right: 1.5px solid rgb(3, 195, 253);
+  border-bottom: 1.5px solid rgb(3, 195, 253);
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+
+body.dark .subject-box {
+  background-color: #0f172a;
+  border-color: #38bdf8;
+}
+
+/* Subject list */
+.subject-box ul {
+  list-style: none;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease;
+  margin: 0;
+  padding: 0;
+	width: 100%;
+}
+
+/* Expanded state */
+.subject-box ul.show {
+  max-height: 500px;
+  overflow-y: auto; 
+}
+
+.subject-box ul.show::-webkit-scrollbar{
+  display: none;
+}
+
+.subject-box .urls{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-top: 10px;
+}
+
+.urls img{
+	width: 40px;
+	height: 40px;
+}
+
+.subject-box li {
+  padding: 12px 16px;
+  color: #111827;
+  border-top: 1px solid rgb(3, 195, 253);
+  background-color: #fefeff;
+  font-size: 1rem;
+  height: fit-content;
+}
+
+body.dark .subject-box li {
+  color: #f8fafc;
+  background-color: #1e293b;
+  border-color: #38bdf8;
+}
+
+.subject-box li:first-child {
+  border-top: none;
+}
+
+/* GitHub */
+
+.github-profiles{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); 
+  gap: 16px; 
+  justify-items: center;
+  align-items: center;
+  /* padding: 10px; */
+  height: 500px;
+  overflow-y: auto;
+}
+
+.github-profiles::-webkit-scrollbar{
+  display: none;
+}
+
+.github-profiles a{
+  text-decoration: none;
+}
+
+.github-profiles .profile{
+  width: 100%;
+  max-width: 180px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  text-align: center;
+}
+
+.profile:hover{
+  cursor: pointer;
+}
+
+.github-profiles .profile img{
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.github-profiles .profile p{
+  font-size: 1.2rem;
+  color: rgb(3, 195, 253);
+  word-wrap: break-word;
+}
+
+body.dark .profile p{
+  color: #f8fafc;
+}
+
+/* Projects */
+.subject-box .place_a a{
+  color: black;
+}
+
+body.dark .subject-box .place_a a{
+  color: #f8fafc;
+}
+
+
+/* Responsive tweaks */
+@media (max-width: 820px) {
+  .semester-container {
+    padding: 20px 12px;
+		width: 90%;
+  }
+
+  .subjects-grid p {
+    font-size: 1rem;
+    padding: 10px 12px;
+		width: 96.5%;
+  }
+
+  .subject-box li {
+    padding: 10px 12px;
+  }
+}
+
+@media (max-width:520px){
+	.semester-container{
+		width: 80%;
+	}
+
+	.subjects-grid p{
+		width: 92.5%;
+	}
+
+	.urls img{
+		width: 25px;
+		height: 25px;
+	}
+}

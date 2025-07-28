@@ -1,0 +1,43 @@
+.footer_container{
+	color: #111827;
+	margin-top: 50px;
+	width: 100%;
+	font-size: 1rem;
+}
+
+.footer_container .footer_inner_container{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+
+.footer_inner_container u{
+	color: rgb(3,195,253);
+	cursor: pointer;
+}
+
+.footer_container .para{
+	text-align: center;
+	margin: 0px 0px 10px 0px;
+	cursor: pointer;
+	text-transform: uppercase;
+	font-size: 2rem;
+}
+
+.footer_container .vision{
+	text-align: left;
+	border: 1px solid black;
+	margin: 0px 20px 20px 20px;
+	padding: 10px;
+	background-color: black;
+	color: white;
+	border-radius: 10px;
+	font-size: 1.5rem;
+	line-height:150%;
+}
+
+@media (max-width:720px){
+	.footer_container{
+		font-size: 0.8rem;
+	}
+}

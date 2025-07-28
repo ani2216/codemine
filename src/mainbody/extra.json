@@ -1,0 +1,75 @@
+[
+	 {
+    "title": "Semester Subject",
+    "body": [
+      {
+        "head": "1st Year",
+        "topic": [
+          {
+            "topicname": "Applied Chemistry",
+            "youtube": "https://www.youtube.com/playlist?list=PLg2LVpcRrOF5SHahQILs8jRZNOjqKBmbC",
+            "notes": "https://drive.google.com/file/d/1StbGXlEDCQbiL_4qfP-ZmLcp7y-eGsPm/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1StbGXlEDCQbiL_4qfP-ZmLcp7y-eGsPm/view?usp=sharing"
+          },
+          {
+            "topicname": "Physics",
+            "youtube": "yturl",
+            "notes": "notesurl",
+            "book": "bookurl"
+          }
+        ]
+      },
+      {
+        "head": "2nd Year",
+        "topic": [
+          {
+            "topicname": "Maths",
+            "youtube": "yturl",
+            "notes": "notesurl",
+            "book": "bookurl"
+          },
+          {
+            "topicname": "Electronics",
+            "youtube": "yturl",
+            "notes": "notesurl",
+            "book": "bookurl"
+          }
+        ]
+      },
+      {
+        "head": "3rd Year",
+        "topic": [
+          {
+            "topicname": "Maths",
+            "youtube": "yturl",
+            "notes": "notesurl",
+            "book": "bookurl"
+          },
+          {
+            "topicname": "Electronics",
+            "youtube": "yturl",
+            "notes": "notesurl",
+            "book": "bookurl"
+          }
+        ]
+      },
+      {
+        "head": "4th Year",
+        "topic": [
+          {
+            "topicname": "Maths",
+            "youtube": "yturl",
+            "notes": "notesurl",
+            "book": "bookurl"
+          },
+          {
+            "topicname": "Electronics",
+            "youtube": "yturl",
+            "notes": "notesurl",
+            "book": "bookurl"
+          }
+        ]
+      }
+    ]
+  }
+]

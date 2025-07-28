@@ -1,0 +1,1309 @@
+[
+  {
+    "title": "Gate CSE",
+    "body": [
+      {
+        "head": "Crash Course",
+        "topic": [
+          {
+            "topicname": "Crash Course",
+            "youtube": "",
+            "notes": "",
+            "book": ""
+          }
+        ]
+      },
+      {
+        "head": "Syllabus",
+        "topic": [
+          {
+            "topicname": "GATE-CSE Syllabus (2025)",
+            "youtube": "https://www.youtube.com/watch?v=LBQnN2NrxNk&t=0h16m10s",
+            "notes": "https://drive.google.com/file/d/1r6-4UbjhapOXpEj_Yyvi7grJp-PpE40u/view?usp=sharing",
+            "book": ""
+          }
+        ]
+      },
+      {
+        "head": "Engineering Mathematics",
+        "topic": [
+          {
+            "topicname": "Linear Algebra",
+            "youtube": "https://www.youtube.com/playlist?list=PLG9aCp4uE-s3WVNMgxyHkGD8M78ATMW8v",
+            "notes": "https://drive.google.com/file/d/1LARKrXl0XC1FpjXanSeyf3Dt2uQ_VPqH/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1UrzALD46R1U2YBo14ZMqfmvwhDED_dCd/view?usp=sharing"
+          },
+          {
+            "topicname": "Calculus",
+            "youtube": "https://www.youtube.com/playlist?list=PLbFukSc6jDrS_mwWkB6YmfW4fc3Pwt8zt",
+            "notes": "https://drive.google.com/file/d/15OoLIT7Q6OJ5ii-KWIQBLYDoQFZ-NANx/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1QZ_QeKyqj8OAVF5PR9GEH-38phVULstK/view?usp=sharing"
+          },
+          {
+            "topicname": "Probability and Statistics",
+            "youtube": "https://www.youtube.com/playlist?list=PL0b9qDcBZ_Xs4HJZYTqnlz7OEeaEblwuM",
+            "notes": "https://drive.google.com/file/d/1BReaJqSK448MHhlH_3yO0y3e10k8kCkL/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1XHs-4fPU7nWz8M-tOZOQXQudTMcO_Fg6/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "head": "Discrete Mathematics",
+        "topic": [
+          {
+            "topicname": "Discrete Mathematics",
+            "youtube": "https://www.youtube.com/watch?v=h4sd7wRcyR0",
+            "notes": "https://drive.google.com/file/d/1auVpMKprzpXjj1kQfRxl1k12FBHl7zWp/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1tYMIY8Zg1bEIoDZ56h4RCTVGfvp_uees/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "head": "Computer Organisation & Architecture",
+        "topic": [
+          {
+            "topicname": "COA-1",
+            "youtube": "https://www.youtube.com/playlist?list=PLG9aCp4uE-s3WzvFW1nI-7hHWNC8s2RdI",
+            "notes": "https://drive.google.com/file/d/1H_dBwODUg2gf89HpfJy1LdV3njpB9Em6/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1nmt8XBvhjUWb01eTIEFS2N0bcB87DCL3/view?usp=sharing"
+          },
+           {
+            "topicname": "COA-2",
+            "youtube": "https://www.youtube.com/playlist?list=PLG9aCp4uE-s3WzvFW1nI-7hHWNC8s2RdI",
+            "notes": "https://drive.google.com/file/d/1YK_vE13maAfHiCcnmT7xIZ5wo42gAdEM/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1nmt8XBvhjUWb01eTIEFS2N0bcB87DCL3/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "head": "Computer Networks",
+        "topic": [
+          {
+            "topicname": "Computer Networks",
+            "youtube": "https://www.youtube.com/playlist?list=PLOG_8OlGMp73hMyn-WX1M2Q4ON98DmaRq",
+            "notes": "https://drive.google.com/file/d/1qaM7jORXxRRWDHQD7fNok07xw2eXOC8z/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1CwXiYc3psralhUGW7kVoht9ZMo6_11qj/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "head": "DBMS",
+        "topic": [
+          {
+            "topicname": "DBMS",
+            "youtube": "https://www.youtube.com/watch?v=FchQ6wZVqsA",
+            "notes": "https://drive.google.com/file/d/1CWjPL2XRBT7N7nvfpQYGEYcG5tPIwoIy/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1889ArfDAZgqYNPoqxY6pKxTIhCzYUogz/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "head": "Theory of Computation",
+        "topic": [
+          {
+            "topicname": "TOC",
+            "youtube": "https://www.youtube.com/playlist?list=PL3eEXnCBViH_ePbZWc1nKZuyfru6sgioD",
+            "notes": "https://drive.google.com/file/d/1O66xxQgnZfT_vECt1bsveW4f2yMSj-Qd/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1iQ7AU1Qv-FktaRKEq75B4ilm4xQD5wht/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "head": "Compiler design",
+        "topic": [
+          {
+            "topicname": "Compiler Design",
+            "youtube": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc",
+            "notes": "https://drive.google.com/file/d/10s3tjHSNnxjXJAPpnCeXs3RiES_BuVFQ/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/14eCTMLuIY74iRhRDYQTzL4buw8MmhELO/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "head": "Digital Logic",
+        "topic": [
+          {
+            "topicname": "Digital Logic",
+            "youtube": "https://www.youtube.com/watch?v=lH0sYax5Yg0",
+            "notes": "https://drive.google.com/file/d/1-uu1RiUTXAUJz79BOj-PtLPtS1u60KXg/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1MRtxfO--QWfmEZmC1sZ3OLcRW8YXK9Uk/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "head": "Aptitude",
+        "topic": [
+          {
+            "topicname": "Aptitude",
+            "youtube": "https://www.youtube.com/playlist?list=PLvTTv60o7qj9YJU93vxkf570EQOfPnhwP",
+            "notes": "https://drive.google.com/file/d/1uyR_Cu5GMBlTLu9jnKAqILynNCqW71yc/view?usp=sharing",
+            "book": "https://ifasonline.com/gate/gate-paper-1-previous-year-question-paper/6433b4a76f88433b504b4248/6496c71a7b29f901d4b706ed?srsltid=AfmBOorRbhWd5uge3Pd5mkZftCISZmLDln4fPW8wkdiTsQ5ntHuB6Iia"
+          }
+        ]
+      },
+      {
+        "head": "Operating System",
+        "topic": [
+          {
+            "topicname": "Operating System",
+            "youtube": "https://www.youtube.com/playlist?list=PL3eEXnCBViH-SiXK96TZd-7k3Qvk5g1YH",
+            "notes": "https://drive.google.com/file/d/1JcqVV9tz6Lx1GXMkXqSLEwjkOP8z_u0r/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1LIwnVTEQgc7orS0hIupemAxwLvB7norw/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "head": "Programming and Data Structure",
+        "topic": [
+          {
+            "topicname": "DSA",
+            "youtube": "https://www.youtube.com/watch?v=2o2vX0ZqQ_Y",
+            "notes": "https://drive.google.com/file/d/1itJnb9v0ihIWbDjCtTWzgrRGMFLGINQp/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1L8yKxWvE6y233o7JYSHNOPxfDMUccBAb/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "head": "Algorithms",
+        "topic": [
+          {
+            "topicname": "Algorithm",
+            "youtube": "https://www.youtube.com/watch?v=aaHL0KygWqE",
+            "notes": "https://drive.google.com/file/d/1VWzusH739-ueHfA0RKWHv_rsbqNVoS2M/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1Wlq30p_GMzLdz2qqNeenAqo_nLIqrGYL/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+	{
+    "title": "Projects",
+    "body": [
+      {
+        "head": "Basic",
+        "topic":[
+        {
+          "topicname": "To-Do List Web App",
+          "youtube": "https://github.com/neysidev/todo-list",
+          "notes": "A simple task management app where users can add, delete, and mark tasks as complete. Built using HTML, CSS, and JavaScript. Helps beginners understand web development basics and DOM manipulation.",
+          "book": ""
+        },
+        {
+          "topicname": "Personal Portfolio Website",
+          "youtube": "https://github.com/vivek9patel/vivek9patel.github.io",
+          "notes": "A personal portfolio website with sections like About Me, Skills, Projects, and Contact. Helps students learn HTML, CSS, JavaScript, and responsive design.",
+          "book": ""
+        },
+        {
+          "topicname": "Unit Converter",
+          "youtube": "https://github.com/rohitraj232/js-unitConversion",
+          "notes": "A basic unit converter for length, weight, and temperature. Reinforces understanding of basic programming logic, functions, and user interface design.",
+          "book": ""
+        },
+        {
+          "topicname": "Library Management System",
+          "youtube": "https://github.com/hrshadhin/school-management-system",
+          "notes": "A simple console or GUI-based Library Management System to add, search, issue, and return books. Teaches object-oriented programming concepts.",
+          "book": ""
+        },
+        {
+          "topicname": "Currency Converter",
+          "youtube": "https://github.com/prathmeshborate/CurrencyConverter",
+          "notes": "A currency converter that fetches real-time exchange rates using APIs. Helps beginners learn API integration and GUI development.",
+          "book": ""
+        },
+        {
+          "topicname": "Basic Calculator App",
+          "youtube": "https://github.com/matheusfelipeog/calculadora-tk",
+          "notes": "A basic calculator that performs arithmetic operations. Helps in understanding conditionals, events, and simple user interface creation.",
+          "book": ""
+        },
+        {
+          "topicname": "Number Guessing Game",
+          "youtube": "https://github.com/palahsu/Guess-Number",
+          "notes": "A number guessing game where the user tries to guess a randomly generated number. Teaches loops, conditionals, and random number generation.",
+          "book": ""
+        },
+        {
+          "topicname": "Weather App",
+          "youtube": "https://github.com/tbhvishal/Python-Weather-Info-App",
+          "notes": "A weather forecast app that uses the OpenWeatherMap API to display weather for any city. Helps students learn about APIs, JSON, and dynamic web content.",
+          "book": ""
+        },
+        {
+          "topicname": "Student Result Management System",
+          "youtube": "https://github.com/shubhamsatishkumbhar/Student-Result-Management-System-SRMS-",
+          "notes": "A system to enter student data, compute grades, and display results. Can be built using Python or Java with a simple GUI or console interface.",
+          "book": ""
+        },
+        {
+          "topicname": "Basic Chat Application",
+          "youtube": "https://github.com/Madhur215/Django-ChatApp",
+          "notes": "A basic two-way chat application using socket programming. Teaches networking fundamentals, client-server communication, and concurrency.",
+          "book": ""
+        }
+      ]
+
+      },
+      {
+        "head": "App Development",
+        "topic": [
+          {
+            "topicname": "AI-Powered Chatbot for College Enquiries",
+            "youtube": "https://github.com/Candida18/College-Enquiry-Chatbot",
+            "notes": "An AI chatbot using Python and NLP to answer common student queries related to courses, admissions, and campus information. Can be deployed on web or mobile.",
+            "book": ""
+          },
+          {
+            "topicname": "Online Voting System with Blockchain",
+            "youtube": "https://github.com/Krish-Depani/Decentralized-Voting-System",
+            "notes": "A secure online voting system using blockchain technology to ensure transparency and prevent vote tampering.",
+            "book": ""
+          },
+          {
+            "topicname": "Real-Time Chat Application",
+            "youtube": "https://github.com/earthcomfy/lets-chat",
+            "notes": "A web-based real-time chat app using Node.js, Express, and Socket.io for instant messaging between users.",
+            "book": ""
+          },
+          {
+            "topicname": "Healthcare Appointment Booking System",
+            "youtube": "https://github.com/topics/doctor-appointment-management",
+            "notes": "A web-based system for patients to book appointments with doctors, receive reminders, and manage records.",
+            "book": ""
+          },
+          {
+            "topicname": "Smart Parking System using IoT",
+            "youtube": "https://github.com/vishnubv944/smartParkingSystem",
+            "notes": "A smart parking solution using IoT sensors and a web dashboard to display available parking slots in real time.",
+            "book": ""
+          },
+          {
+            "topicname": "Online Learning Management System",
+            "youtube": "https://github.com/frappe/lms",
+            "notes": "A learning platform where students can enroll in courses, watch lectures, take quizzes, and download notes. Built using Python Django or similar frameworks.",
+            "book": ""
+          },
+          {
+            "topicname": "Hotel Booking System with Payment Integration",
+            "youtube": "https://github.com/topics/hotel-booking",
+            "notes": "An online hotel reservation system with room availability, booking, and online payment features using modern web frameworks.",
+            "book": ""
+          },
+          {
+            "topicname": "Crime Prediction and Reporting System",
+            "youtube": "https://github.com/SiddhantPawar03/crime-prediction-reporting-system",
+            "notes": "A web app that uses past crime data to predict high-risk areas and allows users to report incidents in real time.",
+            "book": ""
+          },
+          {
+            "topicname": "AI-based Resume Screening System",
+            "youtube": "https://github.com/JAIJANYANI/Automated-Resume-Screening-System",
+            "notes": "A system that automatically ranks and shortlists resumes using NLP and ML models, reducing manual HR effort.",
+            "book": ""
+          },
+          {
+            "topicname": "Online Food Delivery Platform",
+            "youtube": "https://github.com/Tarikul711/flutter-food-delivery-app-ui",
+            "notes": "A food ordering and delivery app UI made with Flutter. Can be extended with backend for full functionality.",
+            "book": ""
+          },
+          {
+            "topicname": "Virtual Classroom with Video Conferencing",
+            "youtube": "https://github.com/netless-io/flat",
+            "notes": "A web-based virtual classroom supporting video calls, chat, whiteboard, and file sharing for online education.",
+            "book": ""
+          },
+          {
+            "topicname": "AI Face Recognition Attendance System",
+            "youtube": "https://github.com/kby-ai/FaceRecognition-Android",
+            "notes": "An AI-based face recognition system for attendance automation using deep learning and Android development.",
+            "book": ""
+          },
+          {
+            "topicname": "Online Portfolio Builder",
+            "youtube": "https://github.com/hhhrrrttt222111/developer-portfolio",
+            "notes": "A customizable developer portfolio built using React and modern UI/UX practices.",
+            "book": ""
+          },
+          {
+            "topicname": "Cloud-Based Notes Taking App",
+            "youtube": "https://github.com/streetwriters/notesnook",
+            "notes": "A private, secure, cloud-based note-taking app with cross-platform support and strong privacy features.",
+            "book": ""
+          }
+        ]
+
+      },
+      {
+        "head": "ML Based",
+        "topic": [
+  {
+    "topicname": "Predictive Analytics",
+    "youtube": "https://github.com/data-flair/machine-learning-projects",
+    "notes": "Uses data science methods to estimate future values—for applications like sales forecasting and decision-making.",
+    "book": ""
+  },
+  {
+    "topicname": "Music Recommendation System",
+    "youtube": "https://github.com/data-flair/machine-learning-projects",
+    "notes": "Suggests songs to users based on their listening history using recommendation algorithms.",
+    "book": ""
+  },
+  {
+    "topicname": "Handwritten Digit Recognition",
+    "youtube": "https://github.com/shsarv/Machine-Learning-Projects",
+    "notes": "Trains models to identify digits written by hand, commonly using the MNIST dataset.",
+    "book": ""
+  },
+  {
+    "topicname": "Fake News Detection",
+    "youtube": "https://github.com/data-flair/machine-learning-projects",
+    "notes": "Uses natural language processing and classification models to detect misleading news articles.",
+    "book": ""
+  },
+  {
+    "topicname": "Sales Prediction",
+    "youtube": "https://github.com/akhilkasare/Sales_Prediction_Machine_Learning",
+    "notes": "Predicts future sales for retail stores using historical sales data and regression models.",
+    "book": ""
+  },
+  {
+    "topicname": "Home Value/Real Estate Price Prediction",
+    "youtube": "https://github.com/shsarv/Machine-Learning-Projects",
+    "notes": "Uses regression models to estimate property prices based on features like area, location, and amenities.",
+    "book": ""
+  },
+  {
+    "topicname": "Text Summarization Tool",
+    "youtube": "https://github.com/soumik12345/Abstractive-Text-Summarizer",
+    "notes": "Implements extractive or abstractive summarization to produce concise summaries from long documents, using NLP and sequence models.",
+    "book": ""
+  },
+  {
+    "topicname": "Speech Emotion Recognition",
+    "youtube": "https://github.com/sharathadavanne/speech-emotion-recognition",
+    "notes": "Classifies emotions from human speech using feature extraction and classifiers like MLP.",
+    "book": ""
+  },
+  {
+    "topicname": "Image Classification (Clothing/Product)",
+    "youtube": "https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition",
+    "notes": "Classifies images (e.g., clothing, products) using convolutional neural networks.",
+    "book": ""
+  },
+  {
+    "topicname": "Language Detection Model",
+    "youtube": "https://github.com/akhilkasare/Language-Detection-Using-NLP-and-Machine-Learning",
+    "notes": "Utilizes NLP techniques to detect the language of text data, using feature extraction and classification.",
+    "book": ""
+  }
+]
+
+      },
+      {
+        "head": "NLP Based",
+        "topic":[
+  {
+    "topicname": "Paraphrase Identification",
+    "youtube": "https://github.com/mohamedezzeldeenhassanmohamed/NLP-Projects-Repository",
+    "notes": "Builds a system to identify whether two sentences are paraphrases using NLP techniques. Useful for plagiarism detection and search engines.",
+    "book": ""
+  },
+  {
+    "topicname": "Text Summarization",
+    "youtube": "https://github.com/soumik12345/Abstractive-Text-Summarizer",
+    "notes": "Implements methods to generate concise summaries from long documents with extractive and abstractive summarization using NLP.",
+    "book": ""
+  },
+  {
+    "topicname": "Sentiment Analysis",
+    "youtube": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "notes": "Classifies and extracts sentiment from textual data (positive, negative, neutral), helpful in opinion mining, reviews, and social media.",
+    "book": ""
+  },
+  {
+    "topicname": "Named Entity Recognition (NER)",
+    "youtube": "https://github.com/KalyanM45/AI-Project-Gallery",
+    "notes": "Detects proper names like people, locations, organizations in text with NLP sequence models and annotation.",
+    "book": ""
+  },
+  {
+    "topicname": "Chatbot (Conversational AI)",
+    "youtube": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "notes": "Implements a chatbot framework using natural language understanding to hold real-time conversations with users.",
+    "book": ""
+  },
+  {
+    "topicname": "Language Detection",
+    "youtube": "https://github.com/akhilkasare/Language-Detection-Using-NLP-and-Machine-Learning",
+    "notes": "Automatically identifies the language of provided text using character and word distribution features.",
+    "book": ""
+  },
+  {
+    "topicname": "Text Classification",
+    "youtube": "https://github.com/darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP",
+    "notes": "Assigns categories to text documents such as spam filtering, topic assignment, or genre identification.",
+    "book": ""
+  },
+  {
+    "topicname": "Question Answering System",
+    "youtube": "https://github.com/mohamedezzeldeenhassanmohamed/NLP-Projects-Repository",
+    "notes": "Builds systems that automatically answer user questions by extracting or generating relevant passages from documents.",
+    "book": ""
+  },
+  {
+    "topicname": "Machine Translation",
+    "youtube": "https://github.com/huggingface/transformers",
+    "notes": "Translates text between languages using sequence-to-sequence NLP models and pre-trained transformer architectures.",
+    "book": ""
+  },
+  {
+    "topicname": "Topic Modeling",
+    "youtube": "https://github.com/KalyanM45/AI-Project-Gallery",
+    "notes": "Discovers abstract topics within large collections of text using unsupervised algorithms like LDA.",
+    "book": ""
+  }
+]
+      },
+      {
+        "head": "Open-CV",
+        "topic": [
+  {
+    "topicname": "Face Detection",
+    "youtube": "https://github.com/opencv/opencv",
+    "notes": "Implements real-time face detection using Haar cascades and deep learning models, ideal for security and camera applications.",
+    "book": ""
+  },
+  {
+    "topicname": "Real-Time Car Detection",
+    "youtube": "https://github.com/openvinotoolkit/vehicle-detection-adas-0002",
+    "notes": "Detects cars in real-time from video streams, enabling traffic monitoring and automated vehicle recognition.",
+    "book": ""
+  },
+  {
+    "topicname": "Barcode and QR Code Scanner",
+    "youtube": "https://github.com/NikhilGupta1998/Barcode-and-QRCode-Scanner",
+    "notes": "Reads and decodes barcodes and QR codes using OpenCV, useful for retail and inventory management systems.",
+    "book": ""
+  },
+  {
+    "topicname": "Object Size Measurement",
+    "youtube": "https://github.com/ManivannanMurugavel/measure-size-OpenCV",
+    "notes": "Measures the size of objects in an image based on a reference dimension, practical for industrial and scientific applications.",
+    "book": ""
+  },
+  {
+    "topicname": "License Plate Recognition",
+    "youtube": "https://github.com/quangnhat185/Plate_detect_and_recognize",
+    "notes": "Recognizes vehicle license plates from images or live video, widely used in security, parking, and law enforcement.",
+    "book": ""
+  },
+  {
+    "topicname": "Real-Time Drowsiness Detection",
+    "youtube": "https://github.com/Aravindlivewire/Drowsiness-detection-opencv",
+    "notes": "Monitors a driver’s eyes in real time to detect drowsiness, improving automobile safety.",
+    "book": ""
+  },
+  {
+    "topicname": "Pedestrian Detection",
+    "youtube": "https://github.com/ildoonet/tf-pose-estimation",
+    "notes": "Detects pedestrians in camera feeds, an essential component of surveillance and self-driving cars.",
+    "book": ""
+  },
+  {
+    "topicname": "Augmented Reality with OpenCV",
+    "youtube": "https://github.com/infoaryan/Augmented-Reality-from-scratch",
+    "notes": "Overlays virtual objects onto real-world scenes using image processing and computer vision techniques.",
+    "book": ""
+  },
+  {
+    "topicname": "Image Stitching",
+    "youtube": "https://github.com/opencv/opencv_contrib/tree/master/modules/stitching",
+    "notes": "Combines multiple images to create panoramas using feature matching and image blending.",
+    "book": ""
+  },
+  {
+    "topicname": "Background Subtraction",
+    "youtube": "https://github.com/opencv/opencv/blob/master/samples/python/bg_subtraction.py",
+    "notes": "Extracts moving objects from video by subtracting backgrounds, useful in surveillance and analytics.",
+    "book": ""
+  }
+]
+      },
+      {
+        "head": "Web Development",
+        "topic": [
+  {
+    "topicname": "Web Development Project Directory",
+    "youtube": "https://github.com/catherineisonline/all-projects-directory",
+    "notes": "A directory to help navigate various frontend and web development projects, ideal for beginners exploring different web technologies.",
+    "book": ""
+  },
+  {
+    "topicname": "Web Dev Mini Projects",
+    "youtube": "https://github.com/Ayushparikh-code/Web-dev-mini-projects",
+    "notes": "A collection of beginner-friendly web development projects using HTML, CSS, and JavaScript. Great for solidifying foundational frontend skills.",
+    "book": ""
+  },
+  {
+    "topicname": "Job Portal (Django + Tailwind)",
+    "youtube": "https://github.com/aneebnaqvi15/jobportal",
+    "notes": "A modern job portal for connecting job seekers and employers, built with Django and Tailwind CSS. Features login, job postings, and applications.",
+    "book": ""
+  },
+  {
+    "topicname": "Weather App",
+    "youtube": "https://github.com/Meesaajay/Weather-app",
+    "notes": "Responsive weather application fetching real-time data from a public API, built using HTML, CSS, and JavaScript.",
+    "book": ""
+  },
+  {
+    "topicname": "Portfolio Website",
+    "youtube": "https://github.com/NikhilanshSisodia/Project9_MyPortfolio",
+    "notes": "Personal portfolio template showcasing skills, experience, and projects. Built with HTML, CSS, and JavaScript for responsive design.",
+    "book": ""
+  },
+  {
+    "topicname": "SoundSpot Music Web App",
+    "youtube": "https://github.com/Nouran246/SoundSpot-Music-Web-Application",
+    "notes": "A music hub featuring playlists, authentication, and admin dashboards. Developed with Node.js, MongoDB, and Express.",
+    "book": ""
+  },
+  {
+    "topicname": "Blog Site (React, Firebase)",
+    "youtube": "https://github.com/egbusonemmanuel/my-blog-app",
+    "notes": "Modern blog and news app with user login, blog creation, live preview, and AI-powered content generation (React, Firebase).",
+    "book": ""
+  },
+  {
+    "topicname": "Food Ordering Website (MERN)",
+    "youtube": "https://github.com/prashantsingh30/FoodyWeb",
+    "notes": "A dynamic food ordering web application using the MERN stack. Includes user-friendly ordering and management features.",
+    "book": ""
+  },
+  {
+    "topicname": "Course Management Platform (Django)",
+    "youtube": "https://github.com/InternVision-Tech-Team/Course-Management",
+    "notes": "Comprehensive learning platform with courses, book purchases, lectures, and AI chatbot. Features secure login and payment integration.",
+    "book": ""
+  },
+  {
+    "topicname": "Quick Reel Landing Page",
+    "youtube": "https://github.com/psparwez/quick-reel",
+    "notes": "A fully responsive landing page built with HTML5, CSS3, and JavaScript. Ideal for product launches and digital portfolios.",
+    "book": ""
+  }
+]
+      },
+      {
+        "head": "CyberSecurity",
+        "topic": [
+  {
+    "topicname": "SpiderFoot (Automated OSINT Reconnaissance)",
+    "youtube": "https://github.com/smicallef/spiderfoot",
+    "notes": "Automates OSINT for threat intelligence and attack surface mapping. Useful for reconnaissance, information-gathering, and external asset discovery.",
+    "book": ""
+  },
+  {
+    "topicname": "Wazuh (Open Source XDR and SIEM)",
+    "youtube": "https://github.com/wazuh/wazuh",
+    "notes": "Unified platform for endpoint and cloud security, integrating threat detection, compliance, incident response, and SIEM functionalities.",
+    "book": ""
+  },
+  {
+    "topicname": "Incident Response Projects for Beginners",
+    "youtube": "https://github.com/0xrajneesh/Incident-Response-Projects-for-Beginners",
+    "notes": "Hands-on projects for skills in phishing investigation, malware analysis, network intrusion detection, and DDoS response.",
+    "book": ""
+  },
+  {
+    "topicname": "OWASP Juice Shop",
+    "youtube": "https://github.com/juice-shop/juice-shop",
+    "notes": "A deliberately insecure web application for security training, awareness demos, and CTFs. Covers a vast range of vulnerabilities.",
+    "book": ""
+  },
+  {
+    "topicname": "Cryptomator (Cloud Client-Side Encryption)",
+    "youtube": "https://github.com/cryptomator/cryptomator",
+    "notes": "Free multi-platform tool for client-side cloud file encryption. Ensures only the user holds the encryption keys.",
+    "book": ""
+  },
+  {
+    "topicname": "Kali Linux",
+    "youtube": "https://github.com/kalilinux/kali-linux-docker",
+    "notes": "Popular Linux distribution pre-built for penetration testing, digital forensics, and ethical hacking.",
+    "book": ""
+  },
+  {
+    "topicname": "KeePass (Password Manager)",
+    "youtube": "https://github.com/dlech/KeePass2.x",
+    "notes": "Free, open-source password manager for securely storing and managing passwords in an encrypted database.",
+    "book": ""
+  },
+  {
+    "topicname": "OpenVAS (Vulnerability Scanner)",
+    "youtube": "https://github.com/greenbone/openvas-scanner",
+    "notes": "Robust open-source vulnerability scanning tool with capabilities for unauthenticated and authenticated security assessments.",
+    "book": ""
+  },
+  {
+    "topicname": "Malwoverview (Malware Analysis)",
+    "youtube": "https://github.com/alicarbonell/malwoverview",
+    "notes": "Tool for initial malware assessment, IOCs extraction, sample behavior reporting, and integration with sandboxes.",
+    "book": ""
+  },
+  {
+    "topicname": "Beginner Cybersecurity Mini-Projects",
+    "youtube": "https://github.com/kienmarkdo/Cybersecurity-Mini-Projects",
+    "notes": "Collection of projects covering basics: RSA algorithm, keylogger, network sniffer, phishing pages, steganography, and SSTI.",
+    "book": ""
+  }
+]
+      },
+      {
+        "head": "Computer Vision",
+        "topic":[
+  {
+    "topicname": "Face Detection",
+    "youtube": "https://github.com/opencv/opencv",
+    "notes": "Detects faces in images or video streams using Haar cascades and deep learning methods with OpenCV.",
+    "book": ""
+  },
+  {
+    "topicname": "Image Classification with CNN",
+    "youtube": "https://github.com/Aryan-Chharia/Computer-Vision-Projects",
+    "notes": "Classifies images into predefined categories using convolutional neural networks and transfer learning.",
+    "book": ""
+  },
+  {
+    "topicname": "Object Detection (YOLO)",
+    "youtube": "https://github.com/Aryan-Chharia/Computer-Vision-Projects",
+    "notes": "Performs real-time object detection and localization using YOLO, including bounding boxes and class labels.",
+    "book": ""
+  },
+  {
+    "topicname": "Image Segmentation (U-Net)",
+    "youtube": "https://github.com/Aryan-Chharia/Computer-Vision-Projects",
+    "notes": "Segments images into different regions at pixel-level for applications like medical imaging and autonomous driving using U-Net.",
+    "book": ""
+  },
+  {
+    "topicname": "Cartoonizing Images",
+    "youtube": "https://github.com/avs-abhishek123/Computer-Vision-Projects",
+    "notes": "Converts real images into cartoon-style visuals using filters and computer vision techniques.",
+    "book": ""
+  },
+  {
+    "topicname": "Barcode and QR Code Scanner",
+    "youtube": "https://github.com/NikhilGupta1998/Barcode-and-QRCode-Scanner",
+    "notes": "Reads and decodes barcodes and QR codes from images or webcam input using OpenCV.",
+    "book": ""
+  },
+  {
+    "topicname": "License Plate Recognition",
+    "youtube": "https://github.com/quangnhat185/Plate_detect_and_recognize",
+    "notes": "Extracts and reads license plate information from vehicle images using OCR and image processing.",
+    "book": ""
+  },
+  {
+    "topicname": "Handwritten Digit Recognition (MNIST)",
+    "youtube": "https://github.com/Aryan-Chharia/Computer-Vision-Projects",
+    "notes": "Recognizes handwritten digits from the MNIST dataset using neural networks.",
+    "book": ""
+  },
+  {
+    "topicname": "Background Subtraction",
+    "youtube": "https://github.com/opencv/opencv/blob/master/samples/python/bg_subtraction.py",
+    "notes": "Extracts moving objects from video streams by subtracting the background, commonly used in surveillance.",
+    "book": ""
+  },
+  {
+    "topicname": "Object Tracking",
+    "youtube": "https://github.com/apssouza22/computer-vision",
+    "notes": "Tracks moving objects across video frames using color, shape, or deep learning algorithms.",
+    "book": ""
+  }
+]
+      }
+    ]
+  },
+	{
+    "title": "Placement",
+    "body": [
+       {
+        "head": "Competative Questions",
+        "topic": [
+          {
+            "topicname": "",
+            "youtube": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+            "notes": "https://docs.google.com/spreadsheets/d/1fzNq_31riql8VjEdkcGfwyyTKvkGovYL/edit?usp=sharing&ouid=111709663229204753469&rtpof=true&sd=true",
+            "book": ""
+          }
+        ]
+      },
+      {
+        "head": "Top LeetCode Questions",
+        "topic": [
+          {
+            "topicname": "",
+            "youtube": "https://www.youtube.com/watch?v=T0u5nwSA0w0",
+            "notes": "https://leetcode.com/explore/interview/card/top-interview-questions-easy/",
+            "book": ""
+          }
+        ]
+      },
+      {
+        "head": "Arrays",
+        "topic": [
+          {
+            "topicname": "Applied Chemistry",
+            "youtube": "https://www.youtube.com/playlist?list=PLgUwDviBIf0rENwdL0nEH0uGom9no0nyB",
+            "notes": "https://drive.google.com/file/d/1AxtjRTtIfp9KrV9VcbpI7viHJfdCUU34/view?usp=sharing",
+            "book": ""
+          }
+        ]
+      },
+      {
+        "head": "String",
+        "topic": [
+          {
+            "topicname": "Maths",
+            "youtube": "https://www.youtube.com/playlist?list=PLpIkg8OmuX-KRHVXwqSixQC9UE6DsHnWa",
+            "notes": "https://drive.google.com/file/d/1vidhGROm9xUQASDiQeQg5pzvBLBfTIh4/view?usp=sharing",
+            "book": ""
+          }
+        ]
+      },
+      {
+        "head": "Searching",
+        "topic": [
+          {
+            "topicname": "Maths",
+            "youtube": "https://www.youtube.com/playlist?list=PLgUwDviBIf0pMFMWuuvDNMAkoQFi-h0ZF",
+            "notes": "https://drive.google.com/file/d/1GE9bGOk4B3ptJT_auCIrhPZECTlNxi0m/view?usp=sharing",
+            "book": ""
+          }
+        ]
+      },
+      {
+        "head": "Bit Manipulation",
+        "topic": [
+          {
+            "topicname": "Maths",
+            "youtube": "https://www.youtube.com/playlist?list=PLgUwDviBIf0rnqh8QsJaHyIX7KUiaPUv7",
+            "notes": "https://drive.google.com/file/d/1PV16mvSlTUSUiKHFCkREprXiALc9C2aG/view?usp=sharing",
+            "book": ""
+          }
+        ]
+      },
+      {
+        "head": "Linked List",
+        "topic": [
+          {
+            "topicname": "Maths",
+            "youtube": "https://www.youtube.com/playlist?list=PLgUwDviBIf0rAuz8tVcM0AymmhTRsfaLU",
+            "notes": "https://drive.google.com/file/d/1SJeeUsbIkYgdOdvEEwljZG7hM7fWEFtE/view?usp=sharing",
+            "book": ""
+          }
+        ]
+      },
+      {
+        "head": "Stack",
+        "topic": [
+          {
+            "topicname": "Maths",
+            "youtube": "https://www.youtube.com/playlist?list=PLgUwDviBIf0pOd5zvVVSzgpo6BaCpHT9c",
+            "notes": "https://drive.google.com/file/d/1jB0jcfsFHKJ_zeVXZTzotyIZHYp3JG4r/view?usp=sharing",
+            "book": ""
+          }
+        ]
+      },
+      {
+        "head": "Queue",
+        "topic": [
+          {
+            "topicname": "Maths",
+            "youtube": "https://www.youtube.com/playlist?list=PLgUwDviBIf0pOd5zvVVSzgpo6BaCpHT9c",
+            "notes": "https://drive.google.com/file/d/1YYx-8ezl4WIFvwLpFFzbfGKTmNGaXc-o/view?usp=sharing",
+            "book": ""
+          }
+        ]
+      },
+      {
+        "head": "Trees",
+        "topic": [
+          {
+            "topicname": "Maths",
+            "youtube": "https://www.youtube.com/playlist?list=PLkjdNRgDmcc0Pom5erUBU4ZayeU9AyRRu",
+            "notes": "https://drive.google.com/file/d/189QGaNrN5cFLVwAmkxwyGX15KcvuWc9h/view?usp=sharing",
+            "book": ""
+          }
+        ]
+      },
+      {
+        "head": "Priority Queue and Heaps",
+        "topic": [
+          {
+            "topicname": "Maths",
+            "youtube": "https://www.youtube.com/playlist?list=PLQ7ZAf76c0ZNdVLljAhGE0FCBurTGxC1x",
+            "notes": "https://drive.google.com/file/d/15dx10ouWFhM62CPPOtS1MFlWDqAkP_7Q/view?usp=sharing",
+            "book": ""
+          }
+        ]
+      },
+      {
+        "head": "Sorting",
+        "topic": [
+          {
+            "topicname": "Maths",
+            "youtube": "https://www.youtube.com/playlist?list=PLyPvmU8zOvFl-XPak-nKr2HYMEo_fSEK_",
+            "notes": "https://drive.google.com/file/d/1stprBVyPU4Cga711xR6btdlYwqXW_HpH/view?usp=sharing",
+            "book": ""
+          }
+        ]
+      },
+      {
+        "head": "Graphs",
+        "topic": [
+          {
+            "topicname": "Maths",
+            "youtube": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn",
+            "notes": "https://drive.google.com/file/d/1JdssfpfQElUXbwLhoePlVGNmkUF4DiCT/view?usp=sharing",
+            "book": ""
+          }
+        ]
+      },
+      {
+        "head": "Tries",
+        "topic": [
+          {
+            "topicname": "Maths",
+            "youtube": "https://www.youtube.com/playlist?list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp",
+            "notes": "https://drive.google.com/file/d/1PnVl4DDTZ8RJOSf2IRlvlrl_4tlZSdu6/view?usp=sharing",
+            "book": ""
+          }
+        ]
+      },
+      {
+        "head": "Time and Space Complexity",
+        "topic": [
+          {
+            "topicname": "Maths",
+            "youtube": "https://www.youtube.com/watch?v=mV3wrLBbuuE",
+            "notes": "https://drive.google.com/file/d/1Lj0321F0xAVtNPxfLZ8Irruvr_02j5q3/view?usp=sharing",
+            "book": ""
+          }
+        ]
+      },
+      {
+        "head": "System Design",
+        "topic": [
+          {
+            "topicname": "Maths",
+            "youtube": "https://www.youtube.com/playlist?list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3",
+            "notes": "https://drive.google.com/file/d/1U6WaOvbTg5aZcdITtzQ2W2e4DyBcoOko/view?usp=sharing",
+            "book": ""
+          }
+        ]
+      },
+      {
+        "head": "Operating System",
+        "topic": [
+          {
+            "topicname": "Maths",
+            "youtube": "https://www.youtube.com/watch?v=3obEP8eLsCw",
+            "notes": "https://drive.google.com/file/d/1hzxJhWcIjWIhj6eDh8JobU2hrVRD0Th1/view?usp=sharing",
+            "book": ""
+          }
+        ]
+      },
+      {
+        "head": "Computer Networks",
+        "topic": [
+          {
+            "topicname": "Maths",
+            "youtube": "https://www.youtube.com/watch?v=qiQR5rTSshw",
+            "notes": "https://drive.google.com/file/d/1vFbuApK2wHETHOUQRupYxCENZWAGhCPl/view?usp=sharing",
+            "book": ""
+          }
+        ]
+      },
+      {
+        "head": "DBMS",
+        "topic": [
+          {
+            "topicname": "Maths",
+            "youtube": "https://www.youtube.com/watch?v=dl00fOOYLOM",
+            "notes": "https://drive.google.com/file/d/1v8AH6GSlCH-SP5P7nDFHOf481YVi2LUU/view?usp=sharing",
+            "book": ""
+          }
+        ]
+      }
+    ]
+  },
+	{
+    "title": "Github Profiles",
+    "body": [
+      {
+        "head": "Profile",
+        "topic": [
+          {
+            "topicname": "Kamran Ahmed",
+            "youtube": "https://github.com/kamranahmedse",
+            "notes": "https://avatars.githubusercontent.com/u/4921183?v=4",
+            "book": ""
+          },
+          {
+            "topicname": "Sindre Sorhus",
+            "youtube": "https://github.com/sindresorhus",
+            "notes": "https://avatars.githubusercontent.com/u/170270?v=4",
+            "book": ""
+          },
+          {
+            "topicname": "John Washam",
+            "youtube": "https://github.com/jwasham",
+            "notes": "https://avatars.githubusercontent.com/u/3771963?v=4",
+            "book": ""
+          },
+          {
+            "topicname": "Donne Martin",
+            "youtube": "https://github.com/donnemartin",
+            "notes": "https://avatars.githubusercontent.com/u/5458997?v=4",
+            "book": ""
+          },
+          {
+            "topicname": "freeCodeCamp",
+            "youtube": "https://github.com/freeCodeCamp",
+            "notes": "https://avatars.githubusercontent.com/u/9892522?s=200&v=4",
+            "book": ""
+          },
+          {
+            "topicname": "GitHub",
+            "youtube": "https://github.com/github",
+            "notes": "https://avatars.githubusercontent.com/u/9919?s=200&v=4",
+            "book": ""
+          },
+          {
+            "topicname": "R.I.Pienaar",
+            "youtube": "https://github.com/ripienaar",
+            "notes": "https://avatars.githubusercontent.com/u/82342?v=4",
+            "book": ""
+          },
+          {
+            "topicname": "MTDV",
+            "youtube": "https://github.com/mtdvio",
+            "notes": "https://avatars.githubusercontent.com/u/33053074?s=200&v=4",
+            "book": ""
+          },
+          {
+            "topicname": "tensorflow",
+            "youtube": "https://github.com/tensorflow",
+            "notes": "https://avatars.githubusercontent.com/u/15658638?s=200&v=4",
+            "book": ""
+          },
+          {
+            "topicname": "Sonkeng",
+            "youtube": "https://github.com/sdmg15",
+            "notes": "https://avatars.githubusercontent.com/u/13077039?v=4",
+            "book": ""
+          },
+          {
+            "topicname": "public-apis",
+            "youtube": "https://github.com/public-apis",
+            "notes": "https://avatars.githubusercontent.com/u/51121562?s=200&v=4",
+            "book": ""
+          },
+          {
+            "topicname": "React Native News",
+            "youtube": "https://github.com/ReactNativeNews",
+            "notes": "https://avatars.githubusercontent.com/u/23131026?s=200&v=4",
+            "book": ""
+          },
+          {
+            "topicname": "Yangshun Tay",
+            "youtube": "https://github.com/yangshun",
+            "notes": "https://avatars.githubusercontent.com/u/1315101?v=4",
+            "book": ""
+          },
+          {
+            "topicname": "Oleksii Trekhleb",
+            "youtube": "https://github.com/trekhleb",
+            "notes": "https://avatars.githubusercontent.com/u/3000285?v=4",
+            "book": ""
+          },
+          {
+            "topicname": "Brad Traversy",
+            "youtube": "https://github.com/bradtraversy",
+            "notes": "https://avatars.githubusercontent.com/u/5550850?v=4",
+            "book": ""
+          },
+          {
+            "topicname": "practical-tutorials",
+            "youtube": "https://github.com/practical-tutorials",
+            "notes": "https://avatars.githubusercontent.com/u/89421154?s=200&v=4",
+            "book": ""
+          },
+          {
+            "topicname": "AndrewStetsenko",
+            "youtube": "https://github.com/AndrewStetsenko",
+            "notes": "https://avatars.githubusercontent.com/u/2838582?v=4",
+            "book": ""
+          },
+          {
+            "topicname": "The Algorithms",
+            "youtube": "https://github.com/TheAlgorithms",
+            "notes": "https://avatars.githubusercontent.com/u/20487725?s=200&v=4",
+            "book": ""
+          },
+          {
+            "topicname": "Kevin Naughton Jr.",
+            "youtube": "https://github.com/kdn251",
+            "notes": "https://avatars.githubusercontent.com/u/16903644?v=4",
+            "book": ""
+          },
+          {
+            "topicname": "Angelos Chalaris",
+            "youtube": "https://github.com/Chalarangelo",
+            "notes": "https://avatars.githubusercontent.com/u/8281875?v=4",
+            "book": ""
+          }
+        ]
+      }
+    ]
+  },
+	{
+    "title": "Quick Access",
+    "body": [
+      {
+        "head": "Java",
+        "topic": [
+          {
+            "topicname": "Java Progamming",
+            "youtube": "https://www.youtube.com/watch?v=A74TOX803D0",
+            "notes": "https://drive.google.com/file/d/1iyTrb3KyTLFMQtNQtObDEQZQIb81BV1X/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1sLJIqCLv4W_a1OcXSUvTctq0iPb-7PZ1/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "head": "Python - Related",
+        "topic": [
+          {
+            "topicname": "Python Progamming",
+            "youtube": "https://www.youtube.com/watch?v=eWRfhZUzrAc",
+            "notes": "https://drive.google.com/file/d/1T_2ql3BOE1RRluSZwADCL5vJ9IwI90Ug/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1Hh96sFvPYUQoQpMje9tLPOmjS7iasmA5/view?usp=sharing"
+          },
+          {
+            "topicname": "Numpy",
+            "youtube": "https://www.youtube.com/watch?v=QUT1VHiLmmI",
+            "notes": "https://drive.google.com/file/d/1By4jks4VLLhwkXeakKdQYu0PaKUDnB8C/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1Zft0FQyp6UqBNYk2KWUtq1GV1PDE0f5n/view?usp=sharing"
+          },
+					{
+            "topicname": "Pandas",
+            "youtube": "https://www.youtube.com/watch?v=gtjxAH8uaP0",
+            "notes": "https://drive.google.com/file/d/1B_3koyWUCnbB3AUD1byF-Oh8ePJikGRx/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1XYBB9VaL7IyzIgqYqSbK0DaFsWFf5aAO/view?usp=sharing"
+          },
+          {
+            "topicname": "Matplotlib",
+            "youtube": "https://www.youtube.com/watch?v=3Xc3CA655Y4",
+            "notes": "https://drive.google.com/file/d/1eazEZbq7nfm67GwDuWN2LWUisghnLW1_/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1XYBB9VaL7IyzIgqYqSbK0DaFsWFf5aAO/view?usp=sharing"
+          },
+					{
+            "topicname": "Scikit Learn and TensorFlow",
+            "youtube": "https://www.youtube.com/watch?v=0B5eIE_1vpU",
+            "notes": "https://drive.google.com/file/d/1Llqo2gfa0cVQOgygylnRfxSRXCzYUq77/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1BeyCGbm-6C1prjpWwDwcfOpealbCZ01G/view?usp=sharing"
+          },
+					{
+            "topicname": "OpenCV",
+            "youtube": "https://www.youtube.com/watch?v=oXlwWbU8l2o",
+            "notes": "https://drive.google.com/file/d/1IjEgljOkAFhqmJZG1SKdesxJfDovuixZ/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1aF4BIiBkGV7WuUFJu5JfgqT8Yie7y27Q/view?usp=sharing"
+          },
+					{
+            "topicname": "Django",
+            "youtube": "https://www.youtube.com/watch?v=F5mRW0jo-U4",
+            "notes": "https://drive.google.com/file/d/1nVpWjTBd7496nWh2Y3Fk6BzLB5LgB2Ni/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1wv97g4PRMd3-EWTR7-LYQuJNVdk6pyto/view?usp=sharing"
+          },
+					{
+            "topicname": "Flask",
+            "youtube": "https://www.youtube.com/watch?v=Qr4QMBUPxWo",
+            "notes": "https://drive.google.com/file/d/12qIy3fQycmlAPYyLXif1oBQS6Dq3ZHNX/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1K3TIBeHG8vZ00e30zPp1jA4kWuen1WeV/view?usp=sharing"
+          },
+					{
+            "topicname": "Pytorch",
+            "youtube": "https://www.youtube.com/watch?v=V_xro1bcAuA",
+            "notes": "https://drive.google.com/file/d/18ZsAANzWC_B6t14NCgYy_vhzdNAm73l8/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1z2MdP_tzDv1fEUgE2Q5Ic7zXEWBzJu8t/view?usp=sharing"
+          },
+					{
+            "topicname": "Librosa",
+            "youtube": "https://www.youtube.com/watch?v=mYUyaKmvu6Y",
+            "notes": "https://librosa.org/doc/latest/index.html",
+            "book": "https://github.com/librosa/librosa"
+          },
+					{
+            "topicname": "PIL - Image Processing",
+            "youtube": "https://www.youtube.com/playlist?list=PLH42YHDxfBrKnEd3n6JGdWScU01a6FCyI",
+            "notes": "https://pillow.readthedocs.io/en/stable/",
+            "book": "https://drive.google.com/file/d/1GPtNPKe2W2ZuNFLwWrjYH4wI2ntWrRRZ/view?usp=sharing"
+          }
+					
+        ]
+      },
+      {
+        "head": "C++",
+        "topic": [
+          {
+            "topicname": "C++ Programming",
+            "youtube": "https://www.youtube.com/watch?v=8jLOx1hD3_o",
+            "notes": "https://drive.google.com/file/d/1CKYcIm41rHPJEdpJJZJnT4Bu7CrtebpD/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1m3C4kj-kMf8aoxtPRX01zvFokMobd7FQ/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "head": "C Programming",
+        "topic": [
+          {
+            "topicname": "C Progamming",
+            "youtube": "https://www.youtube.com/watch?v=KJgsSFOSQv0",
+            "notes": "https://drive.google.com/file/d/1tL4b7-hzdzLXwb6VF5t7NcytuYnIQXuc/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1d5CrVaYIkYlkG5gfB9VYAMhBnFVeAGlF/view?usp=sharing"
+          }
+        ]
+      },
+			{
+        "head": "JavaScript - Related",
+        "topic": [
+          {
+            "topicname": "JavaScript",
+            "youtube": "https://www.youtube.com/watch?v=jS4aFq5-91M",
+            "notes": "https://drive.google.com/file/d/1xaqC5OM0Gd4be--bNiTZ8_1dKACQ19OH/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/10vudXkQrFqzP1VuY9NcdXjSs3ankB8uK/view?usp=sharing"
+          },
+          {
+            "topicname": "ReactJS",
+            "youtube": "https://www.youtube.com/watch?v=5ZdHfJVAY-s",
+            "notes": "https://drive.google.com/file/d/1ICSkz1FN6nlPEUy2uCHp2pn2oRQ6dRLS/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1gR3yqgxTLabCBp5W_9SHjIL7UJansB7p/view?usp=sharing"
+          },
+					{
+            "topicname": "ExpressJS & NodeJS",
+            "youtube": "https://www.youtube.com/watch?v=Oe421EPjeBE",
+            "notes": "https://drive.google.com/file/d/1WoJyY1g2utB6ZKfk-aOPQy-0rWhrA7Ds/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1Bj_BzvjycngIFeVOJby8U2rTG9X0DQKq/view?usp=sharing"
+          }
+        ]
+      },
+			{
+        "head": "Data-Base",
+        "topic": [
+          {
+            "topicname": "MySQL",
+            "youtube": "https://www.youtube.com/watch?v=ER8oKX5myE0",
+            "notes": "https://drive.google.com/file/d/1J7hyIggKw85xg17L-bQaWZegTBGjTit2/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1ldh71i3x2rRXyAubKhKyXjvTYST28tZQ/view?usp=sharing"
+          },
+          {
+            "topicname": "MongoDB",
+            "youtube": "https://www.youtube.com/watch?v=J6mDkcqU_ZE&t=1872s",
+            "notes": "https://www.mongodb.com/developer/products/mongodb/cheat-sheet/",
+            "book": "https://drive.google.com/file/d/1AoQkNAF1fKVoqgV2sRiEmnkuCaGtC4Bm/view?usp=sharing"
+          },
+					{
+            "topicname": "AWS",
+            "youtube": "https://www.youtube.com/watch?v=3hLmDS179YE",
+            "notes": "https://drive.google.com/file/d/141-HPgQefvEp6W2Kg_iwMQfxh6rzAAjt/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1n1rt9GxKZeoPgZVnzsYgF4Vp5KePdAri/view?usp=sharing"
+          }
+        ]
+      },
+			{
+        "head": "PHP",
+        "topic": [
+          {
+            "topicname": "PHP Programming",
+            "youtube": "https://www.youtube.com/watch?v=OK_JCtrrv-c",
+            "notes": "https://drive.google.com/file/d/11z9GhbNmjEGMCDTI21HZkkSfFik4YsUU/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1sPbLDwDVKjWhpXn7tzQJr-LnCJ5h4eXb/view?usp=sharing"
+          }
+        ]
+      },
+			{
+        "head": "Data Science",
+        "topic": [
+          {
+            "topicname": "Data Science Hands-On Learning",
+            "youtube": "https://www.youtube.com/watch?v=ua-CiDNNj30",
+            "notes": "https://drive.google.com/file/d/1GFnPK-abkaLKit6WL4tMYMOav-4e4D1l/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/11oz8awTVRCV8hnxkaS-Z2Ei7qW5JS9P1/view?usp=sharing"
+          }
+        ]
+      },
+			{
+        "head": "Machine Learning",
+        "topic": [
+          {
+            "topicname": "Supervised Learning",
+            "youtube": "https://www.youtube.com/watch?v=NWONeJKn6kc",
+            "notes": "https://drive.google.com/file/d/12scQLRCw-LxamXux6qnwcmKeolEBq2x4/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1qA3Pn2lVfvsRZq2Fmkw24JRit2M3VS-q/view?usp=sharing"
+          },
+          {
+            "topicname": "UnSupervised Learning",
+            "youtube": "https://www.youtube.com/watch?v=NWONeJKn6kc&t=25790s",
+            "notes": "https://drive.google.com/file/d/12scQLRCw-LxamXux6qnwcmKeolEBq2x4/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1qA3Pn2lVfvsRZq2Fmkw24JRit2M3VS-q/view?usp=sharing"
+          },
+					{
+            "topicname": "Reinforcement Learning",
+            "youtube": "https://www.youtube.com/watch?v=ELE2_Mftqoc",
+            "notes": "https://drive.google.com/file/d/1BrjDjdMdTE_BxnTek-KdnHvMZkwyB4v0/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1TTSI_nSbvvs6PXeA-yt-GMpMaoxUSmI_/view?usp=sharing"
+          }
+        ]
+      },
+			{
+        "head": "Natural Language Processing",
+        "topic": [
+          {
+            "topicname": "Natural Language Processing",
+            "youtube": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-natural-language-processing",
+            "notes": "https://www.kaggle.com/code/rftexas/nlp-cheatsheet-master-nlp",
+            "book": "https://drive.google.com/file/d/1RQiG0LJFmJZKsFo49WGt90MdXgXJqEej/view?usp=sharing"
+          }
+        ]
+      },
+			{
+        "head": "Deep Learning",
+        "topic": [
+          {
+            "topicname": "Deep Learning",
+            "youtube": "https://www.youtube.com/watch?v=d2kxUVwWWwU&t=869s",
+            "notes": "https://drive.google.com/file/d/1lZ-LuWgQY6nZwc53DAlHcPDl5TTPG5us/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1YlfGdPho_ML4RN-Id_dbxdbp766UUeyW/view?usp=sharing"
+          }
+        ]
+      },
+			{
+        "head": "Computer Vision",
+        "topic": [
+          {
+            "topicname": "Computer Vision",
+            "youtube": "https://www.youtube.com/watch?v=IA3WxTTPXqQ&t=882s",
+            "notes": "https://drive.google.com/file/d/1crNOhVFAbXeVZOwMoanGwiDgq94KfyNc/view?usp=sharing",
+            "book": "https://drive.google.com/file/d/1f9vs4nZ_VRJHmQSjKlKVUnG_z7nLA2v3/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  }
+]
