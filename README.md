@@ -33,6 +33,11 @@ We believe **no student should have to waste time** scouring the web for reliabl
 <img src="images/1-1.jpeg" width="600"/>
 <br/>
 <img src="images/2.jpeg" width="600"/>
+<img src="images/3.jpeg" width="600"/>
+<img src="images/4.jpeg" width="600"/>
+<img src="images/5.jpeg" width="600"/>
+<img src="images/6.jpeg" width="600"/>
+<img src="images/7.jpeg" width="600"/>
 
 > ✨ UI preview of the CodeMine interface — lightweight, mobile-friendly, and fast.
 
