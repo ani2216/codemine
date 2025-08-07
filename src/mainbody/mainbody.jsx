@@ -3,6 +3,7 @@ import Footer from './footer'
 import Box from './box'
 import Soon from './soon'
 import resource from './resource.json'
+import Telegram from './telegram'
 
 function Mainbody(){
 
@@ -14,7 +15,7 @@ function Mainbody(){
 			<div className="main_inner_container">
 				<div className="upper"></div>
 				<div className="lower">
-					
+					<Telegram />
 					<Box box={box_json}/>
 
 					<Soon />

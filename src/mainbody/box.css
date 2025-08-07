@@ -205,6 +205,13 @@ body.dark .subject-box .place_a a{
   color: #f8fafc;
 }
 
+.announcement{
+  color: #38bdf8;
+}
+
+body.dark .announcement{
+  color: #f8fafc;
+}
 
 /* Responsive tweaks */
 @media (max-width: 820px) {

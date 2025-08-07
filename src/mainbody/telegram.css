@@ -1,0 +1,28 @@
+.tele{
+	width: 100%;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	margin-top: 15px;
+}
+
+.tele-inner{
+	width: fit-content;
+	text-align: center;
+	font-size: 1.5rem;
+	border: 5px solid black;
+	border-style: dotted;
+	padding: 10px;
+}
+
+body.dark .tele-inner{
+	border-color: white;
+}
+
+.tele_link{
+	color: black;
+}
+
+body.dark .tele_link{
+	color: white;
+}

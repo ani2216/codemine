@@ -1,18 +1,58 @@
 [
-  {
-    "title": "Gate CSE",
+   {
+    "title": "Announcements",
     "body": [
       {
-        "head": "Crash Course",
+        "head": "GATE - 2026",
         "topic": [
           {
-            "topicname": "Crash Course",
-            "youtube": "",
+            "topicname": "GATE 2026 - Official Website",
+            "youtube": "https://gate2026.iitg.ac.in/index.html",
+            "notes": "",
+            "book": ""
+          },
+           {
+            "topicname": "RBR sir Toc Lecture",
+            "youtube": "https://www.youtube.com/playlist?list=PLPvaSRcEQh4kZwDLNkYj_aRuLFHayUW8u",
             "notes": "",
             "book": ""
           }
         ]
       },
+       {
+        "head": "Job Updates",
+        "topic": [
+          {
+            "topicname": "Uber-Software Engineer 1",
+            "youtube": "https://university-uber.icims.com/jobs/146940/job?mobile=false&width=1270&height=500&bga=true&needsRedirect=false&jan1offset=330&jun1offset=330",
+            "notes": "",
+            "book": ""
+          },
+          {
+            "topicname": "Marcus - Frontend Developer Intern",
+            "youtube": "https://recruitee.marcusevanscareers.com/o/frontend-developer-intern",
+            "notes": "",
+            "book": ""
+          },
+          {
+            "topicname": "Vymo - Intern - Member of Technical Staff",
+            "youtube": "https://vymopeopleconnect.darwinbox.in/ms/candidate/careers/a686e23ef31ada/job_portal_name/a6434f141833cf",
+            "notes": "",
+            "book": ""
+          },
+          {
+            "topicname": "Lambda Test - Software Intern",
+            "youtube": "https://lambdatest.keka.com/careers/jobdetails/76512",
+            "notes": "",
+            "book": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Gate CSE",
+    "body": [
       {
         "head": "Syllabus",
         "topic": [
