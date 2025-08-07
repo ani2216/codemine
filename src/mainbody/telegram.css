@@ -26,3 +26,10 @@ body.dark .tele-inner{
 body.dark .tele_link{
 	color: white;
 }
+
+
+@media (max-width:720px){
+	.tele-inner{
+		font-size: 1rem;
+	}
+}
